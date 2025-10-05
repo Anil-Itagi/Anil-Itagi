@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences My Resume (https://flowcv.com/resume/wjw33wgit3a9)
 
-- 📄 My Portfolio Website (https://my-portfolio-livid-five-28.vercel.app/)
+- 💻 My Portfolio Website (https://my-portfolio-livid-five-28.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
